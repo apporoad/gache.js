@@ -1,0 +1,27 @@
+{
+  "name": "lisa.gache.js",
+  "version": "1.0.0",
+  "description": "easy use for cache globally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/gache.js.git"
+  },
+  "keywords": [
+    "cache",
+    "global"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/gache.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/gache.js#readme",
+  "dependencies": {
+    "lisa.sync": "^1.2.4",
+    "lisa.utils": "^2.5.0"
+  }
+}
